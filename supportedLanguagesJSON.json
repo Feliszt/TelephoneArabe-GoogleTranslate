@@ -1,0 +1,519 @@
+{
+  "languages": [
+    {
+      "use" : true,
+      "languageName": "Afrikaans",
+      "languageCode": "af"
+    },
+    {
+      "use" : true,
+      "languageName": "Albanian",
+      "languageCode": "sq"
+    },
+    {
+      "use" : true,
+      "languageName": "Amharic",
+      "languageCode": "am"
+    },
+    {
+      "use" : true,
+       "languageName": "Arabic",
+      "languageCode": "ar"
+    },
+    {
+      "use" : true,
+       "languageName": "Armenian",
+      "languageCode": "hy"
+    },
+    {
+      "use" : true,
+      "languageName": "Azerbaijani",
+      "languageCode": "az"
+    },
+    {
+      "use" : true,
+      "languageName": "Basque",
+      "languageCode": "eu"
+    },
+    {
+      "use" : true,
+      "languageName": "Belarusian",
+      "languageCode": "be"
+    },
+    {
+      "use" : false,
+      "languageName": "Bengali",
+      "languageCode": "bn"
+    },
+    {
+      "use" : true,
+      "languageName": "Bosnian",
+      "languageCode": "bs"
+    },
+    {
+      "use" : true,
+      "languageName": "Bulgarian",
+      "languageCode": "bg"
+    },
+    {
+      "use" : true,
+      "languageName": "Catalan",
+      "languageCode": "ca"
+    },
+    {
+      "use" : true,
+      "languageName": "Cebuano",
+      "languageCode": "ceb"
+    },
+    {
+      "use" : true,
+      "languageName": "Chichewa",
+      "languageCode": "ny"
+    },
+    {
+      "use" : true,
+      "languageName": "Chinese",
+      "languageCode": "zh-CN"
+    },
+    {
+      "use" : true,
+      "languageName": "Corsican",
+      "languageCode": "co"
+    },
+    {
+      "use" : true,
+      "languageName": "Croatian",
+      "languageCode": "hr"
+    },
+    {
+      "use" : true,
+      "languageName": "Czech",
+      "languageCode": "cs"
+    },
+    {
+      "use" : true,
+      "languageName": "Danish",
+      "languageCode": "da"
+    },
+    {
+      "use" : true,
+      "languageName": "Dutch",
+      "languageCode": "nl"
+    },
+    {
+      "use" : true,
+      "languageName": "English",
+      "languageCode": "en"
+    },
+    {
+      "use" : true,
+      "languageName": "Esperanto",
+      "languageCode": "eo"
+    },
+    {
+      "use" : true,
+      "languageName": "Estonian",
+      "languageCode": "et"
+    },
+    {
+      "use" : true,
+      "languageName": "Filipino",
+      "languageCode": "tl"
+    },
+    {
+      "use" : true,
+      "languageName": "Finnish",
+      "languageCode": "fi"
+    },
+    {
+      "use" : true,
+      "languageName": "French",
+      "languageCode": "fr"
+    },
+    {
+      "use" : true,
+      "languageName": "Frisian",
+      "languageCode": "fy"
+    },
+    {
+      "use" : true,
+      "languageName": "Galician",
+      "languageCode": "gl"
+    },
+    {
+      "use" : true,
+      "languageName": "Georgian",
+      "languageCode": "ka"
+    },
+    {
+      "use" : true,
+      "languageName": "German",
+      "languageCode": "de"
+    },
+    {
+      "use" : true,
+      "languageName": "Greek",
+      "languageCode": "el"
+    },
+    {
+      "use" : true,
+      "languageName": "Gujarati",
+      "languageCode": "gu"
+    },
+    {
+      "use" : true,
+      "languageName": "Haitian Creole",
+      "languageCode": "ht"
+    },
+    {
+      "use" : true,
+      "languageName": "Hausa",
+      "languageCode": "ha"
+    },
+    {
+      "use" : true,
+      "languageName": "Hawaiian",
+      "languageCode": "haw"
+    },
+    {
+      "use" : true,
+      "languageName": "Hebrew",
+      "languageCode": "iw"
+    },
+    {
+      "use" : true,
+      "languageName": "Hindi",
+      "languageCode": "hi"
+    },
+    {
+      "use" : true,
+      "languageName": "Hmong",
+      "languageCode": "hmn"
+    },
+    {
+      "use" : true,
+      "languageName": "Hungarian",
+      "languageCode": "hu"
+    },
+    {
+      "use" : true,
+      "languageName": "Icelandic",
+      "languageCode": "is"
+    },
+    {
+      "use" : true,
+      "languageName": "Igbo",
+      "languageCode": "ig"
+    },
+    {
+      "use" : true,
+      "languageName": "Indonesian",
+      "languageCode": "id"
+    },
+    {
+      "use" : true,
+      "languageName": "Irish",
+      "languageCode": "ga"
+    },
+    {
+      "use" : true,
+      "languageName": "Italian",
+      "languageCode": "it"
+    },
+    {
+      "use" : true,
+      "languageName": "Japanese",
+      "languageCode": "ja"
+    },
+    {
+      "use" : true,
+      "languageName": "Javanese",
+      "languageCode": "jw"
+    },
+    {
+      "use" : true,
+      "languageName": "Kannada",
+      "languageCode": "kn"
+    },
+    {
+      "use" : true,
+      "languageName": "Kazakh",
+      "languageCode": "kk"
+    },
+    {
+      "use" : true,
+      "languageName": "Khmer",
+      "languageCode": "km"
+    },
+    {
+      "use" : true,
+      "languageName": "Korean",
+      "languageCode": "ko"
+    },
+    {
+      "use" : true,
+       "languageName": "Kurdish (Kurmanji)",
+      "languageCode": "ku"
+    },
+    {
+      "use" : false,
+       "languageName": "Kyrgyz",
+      "languageCode": "ky"
+    },
+    {
+      "use" : true,
+      "languageName": "Lao",
+      "languageCode": "lo"
+    },
+    {
+      "use" : true,
+      "languageName": "Latin",
+      "languageCode": "la"
+    },
+    {
+      "use" : true,
+      "languageName": "Latvian",
+      "languageCode": "lv"
+    },
+    {
+      "use" : true,
+      "languageName": "Lithuanian",
+      "languageCode": "lt"
+    },
+    {
+      "use" : true,
+      "languageName": "Luxembourgish",
+      "languageCode": "lb"
+    },
+    {
+      "use" : false,
+      "languageName": "Macedonian",
+      "languageCode": "mk"
+    },
+    {
+      "use" : true,
+      "languageName": "Malagasy",
+      "languageCode": "mg"
+    },
+    {
+      "use" : true,
+      "languageName": "Malay",
+      "languageCode": "ms"
+    },
+    {
+      "use" : true,
+      "languageName": "Malayalam",
+      "languageCode": "ml"
+    },
+    {
+      "use" : true,
+      "languageName": "Maltese",
+      "languageCode": "mt"
+    },
+    {
+      "use" : true,
+      "languageName": "Maori",
+      "languageCode": "mi"
+    },
+    {
+      "use" : true,
+      "languageName": "Marathi",
+      "languageCode": "mr"
+    },
+    {
+      "use" : true,
+      "languageName": "Mongolian",
+      "languageCode": "mn"
+    },
+    {
+      "use" : true,
+      "languageName": "Myanmar (Burmese)",
+      "languageCode": "my"
+    },
+    {
+      "use" : true,
+      "languageName": "Nepali",
+      "languageCode": "ne"
+    },
+    {
+      "use" : true,
+      "languageName": "Norwegian",
+      "languageCode": "no"
+    },
+    {
+      "use" : true,
+      "languageName": "Pashto",
+      "languageCode": "ps"
+    },
+    {
+      "use" : true,
+      "languageName": "Persian",
+      "languageCode": "fa"
+    },
+    {
+      "use" : true,
+      "languageName": "Polish",
+      "languageCode": "pl"
+    },
+    {
+      "use" : true,
+      "languageName": "Portuguese",
+      "languageCode": "pt"
+    },
+    {
+      "use" : true,
+      "languageName": "Punjabi",
+      "languageCode": "pa"
+    },
+    {
+      "use" : true,
+      "languageName": "Romanian",
+      "languageCode": "ro"
+    },
+    {
+      "use" : true,
+      "languageName": "Russian",
+      "languageCode": "ru"
+    },
+    {
+      "use" : true,
+      "languageName": "Samoan",
+      "languageCode": "sm"
+    },
+    {
+      "use" : true,
+      "languageName": "Scots Gaelic",
+      "languageCode": "gd"
+    },
+    {
+      "use" : true,
+      "languageName": "Serbian",
+      "languageCode": "sr"
+    },
+    {
+      "use" : true,
+      "languageName": "Sesotho",
+      "languageCode": "st"
+    },
+    {
+      "use" : true,
+      "languageName": "Shona",
+      "languageCode": "sn"
+    },
+    {
+      "use" : true,
+      "languageName": "Sindhi",
+      "languageCode": "sd"
+    },
+    {
+      "use" : true,
+      "languageName": "Sinhala",
+      "languageCode": "si"
+    },
+    {
+      "use" : true,
+      "languageName": "Slovak",
+      "languageCode": "sk"
+    },
+    {
+      "use" : true,
+      "languageName": "Slovenian",
+      "languageCode": "sl"
+    },
+    {
+      "use" : true,
+      "languageName": "Somali",
+      "languageCode": "so"
+    },
+    {
+      "use" : true,
+      "languageName": "Spanish",
+      "languageCode": "es"
+    },
+    {
+      "use" : true,
+      "languageName": "Sundanese",
+      "languageCode": "su"
+    },
+    {
+      "use" : true,
+      "languageName": "Swahili",
+      "languageCode": "sw"
+    },
+    {
+      "use" : true,
+      "languageName": "Swedish",
+      "languageCode": "sv"
+    },
+    {
+      "use" : true,
+      "languageName": "Tajik",
+      "languageCode": "tg"
+    },
+    {
+      "use" : true,
+      "languageName": "Tamil",
+      "languageCode": "ta"
+    },
+    {
+      "use" : true,
+      "languageName": "Telugu",
+      "languageCode": "te"
+    },
+    {
+      "use" : false,
+      "languageName": "Thai",
+      "languageCode": "th"
+    },
+    {
+      "use" : true,
+      "languageName": "Turkish",
+      "languageCode": "tr"
+    },
+    {
+      "use" : true,
+      "languageName": "Ukrainian",
+      "languageCode": "uk"
+    },
+    {
+      "use" : false,
+      "languageName": "Urdu",
+      "languageCode": "ur"
+    },
+    {
+      "use" : true,
+      "languageName": "Uzbek",
+      "languageCode": "uz"
+    },
+    {
+      "use" : true,
+      "languageName": "Vietnamese",
+      "languageCode": "vi"
+    },
+    {
+      "use" : true,
+      "languageName": "Welsh",
+      "languageCode": "cy"
+    },
+    {
+      "use" : true,
+      "languageName": "Xhosa",
+      "languageCode": "xh"
+    },
+    {
+      "use" : false,
+      "languageName": "Yiddish",
+      "languageCode": "yi"
+    },
+    {
+      "use" : true,
+      "languageName": "Yoruba",
+      "languageCode": "yo"
+    },
+    {
+      "use" : true,
+      "languageName": "Zulu",
+      "languageCode": "zu"
+    }
+  ]
+}
