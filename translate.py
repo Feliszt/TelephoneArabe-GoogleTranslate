@@ -33,11 +33,11 @@ def translate(_sourceLang, _targetLangCode, _sourceString):
 
 
 ## MAIN PROGRAM ##
-numTranslations = 5
+numTranslations = 50
 
-sourceText = "Je viens de dévorer un coulommiers sur des tranches de pain noir."
-startLangCode = 'fr'
-fileName = "Hamon01.json"
+sourceText = "I wish there would be more happy people in the world."
+startLangCode = 'en'
+fileName = "CarefulRoad.json"
 
 outputData = {}
 outputData["translation"] = []
@@ -80,25 +80,25 @@ for num in range(0, numTranslations):
 
     # perform translation
     translatedText = translate(sourceLangCode, targetLangCode, sourceText)
-    time.sleep(0.5)
     startLangTranslate = translate(targetLangCode, startLangCode, translatedText)
 
     # write json
     outputData['translation'].append({
         'ind' : num+1,
-        'sourceLanguageCode' : sourceLangCode,
+        'sourceLanguageName' : sourceLangName,
         'sourceText' :  sourceText,
-        'targetLanguageCode' : targetLangCode,
+        'targetLanguageName' : targetLangName,
         'translatedText' : translatedText,
         'startLanguageText' :  startLangTranslate
     })
 
+    # print to console
     print("\n#" + str(num+1))
     print("[" + sourceLangName + "->" + targetLangName + "] => " + translatedText)
-    print("[" + targetLangName + "->" + startLangName + "] => " + startLangTranslate)
+    if(num != numTranslations-1):
+        print("[" + targetLangName + "->" + startLangName + "] => " + startLangTranslate)
 
     # update stuff
     sourceText = translatedText
     sourceLangCode = targetLangCode
     sourceLangName = targetLangName
-    time.sleep(1)

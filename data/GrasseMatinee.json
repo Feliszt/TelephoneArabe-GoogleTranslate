@@ -1,0 +1,44 @@
+{
+  "translation": [
+    {
+      "ind": 1,
+      "sourceLanguageCode": "fr",
+      "sourceText": "Hier j'ai bu comme un trou et du coup j'ai fait la grasse matinée.",
+      "startLanguageText": "Hier j'étais comme un trou, et tout à coup j'étais dans la matinée.",
+      "targetLanguageCode": "hu",
+      "translatedText": "Tegnap ivtam, mint egy lyuk, és hirtelen a reggel zsíros voltam."
+    },
+    {
+      "ind": 2,
+      "sourceLanguageCode": "hu",
+      "sourceText": "Tegnap ivtam, mint egy lyuk, és hirtelen a reggel zsíros voltam.",
+      "startLanguageText": "J'étais comme un cadeau et soudainement j'étais malade.",
+      "targetLanguageCode": "cs",
+      "translatedText": "Včera jsem byla jako díra a najednou jsem byla ráno."
+    },
+    {
+      "ind": 3,
+      "sourceLanguageCode": "cs",
+      "sourceText": "Včera jsem byla jako díra a najednou jsem byla ráno.",
+      "startLanguageText": "C'était toi, comme Dara, et j'étais soudainement Raan.",
+      "targetLanguageCode": "sk",
+      "translatedText": "VÄ era som bola ako Dara a zrazu som bola Raan."
+    },
+    {
+      "ind": 4,
+      "sourceLanguageCode": "sk",
+      "sourceText": "VÄ era som bola ako Dara a zrazu som bola Raan.",
+      "startLanguageText": "C'était toi, comme Dara, et j'étais Raan.",
+      "targetLanguageCode": "et",
+      "translatedText": "See oli sina, nagu Dara, ja ma olin äkki Raan."
+    },
+    {
+      "ind": 5,
+      "sourceLanguageCode": "et",
+      "sourceText": "See oli sina, nagu Dara, ja ma olin äkki Raan.",
+      "startLanguageText": "C'Ã©tait toi, comme Dara, et j'Ã©tais Raan.",
+      "targetLanguageCode": "fr",
+      "translatedText": "C'était toi, comme Dara, et j'étais Raan."
+    }
+  ]
+}

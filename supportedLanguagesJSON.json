@@ -1,7 +1,7 @@
 {
   "languages": [
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Afrikaans",
       "languageCode": "af"
     },
@@ -11,12 +11,12 @@
       "languageCode": "sq"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Amharic",
       "languageCode": "am"
     },
     {
-      "use" : true,
+      "use" : false,
        "languageName": "Arabic",
       "languageCode": "ar"
     },
@@ -26,7 +26,7 @@
       "languageCode": "hy"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Azerbaijani",
       "languageCode": "az"
     },
@@ -36,7 +36,7 @@
       "languageCode": "eu"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Belarusian",
       "languageCode": "be"
     },
@@ -46,12 +46,12 @@
       "languageCode": "bn"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Bosnian",
       "languageCode": "bs"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Bulgarian",
       "languageCode": "bg"
     },
@@ -66,12 +66,12 @@
       "languageCode": "ceb"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Chichewa",
       "languageCode": "ny"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Chinese",
       "languageCode": "zh-CN"
     },
@@ -81,7 +81,7 @@
       "languageCode": "co"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Croatian",
       "languageCode": "hr"
     },
@@ -116,7 +116,7 @@
       "languageCode": "et"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Filipino",
       "languageCode": "tl"
     },
@@ -141,7 +141,7 @@
       "languageCode": "gl"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Georgian",
       "languageCode": "ka"
     },
@@ -151,12 +151,12 @@
       "languageCode": "de"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Greek",
       "languageCode": "el"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Gujarati",
       "languageCode": "gu"
     },
@@ -176,12 +176,12 @@
       "languageCode": "haw"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Hebrew",
       "languageCode": "iw"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Hindi",
       "languageCode": "hi"
     },
@@ -206,7 +206,7 @@
       "languageCode": "ig"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Indonesian",
       "languageCode": "id"
     },
@@ -221,7 +221,7 @@
       "languageCode": "it"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Japanese",
       "languageCode": "ja"
     },
@@ -231,27 +231,27 @@
       "languageCode": "jw"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Kannada",
       "languageCode": "kn"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Kazakh",
       "languageCode": "kk"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Khmer",
       "languageCode": "km"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Korean",
       "languageCode": "ko"
     },
     {
-      "use" : true,
+      "use" : false,
        "languageName": "Kurdish (Kurmanji)",
       "languageCode": "ku"
     },
@@ -261,7 +261,7 @@
       "languageCode": "ky"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Lao",
       "languageCode": "lo"
     },
@@ -296,42 +296,42 @@
       "languageCode": "mg"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Malay",
       "languageCode": "ms"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Malayalam",
       "languageCode": "ml"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Maltese",
       "languageCode": "mt"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Maori",
       "languageCode": "mi"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Marathi",
       "languageCode": "mr"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Mongolian",
       "languageCode": "mn"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Myanmar (Burmese)",
       "languageCode": "my"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Nepali",
       "languageCode": "ne"
     },
@@ -341,12 +341,12 @@
       "languageCode": "no"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Pashto",
       "languageCode": "ps"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Persian",
       "languageCode": "fa"
     },
@@ -361,7 +361,7 @@
       "languageCode": "pt"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Punjabi",
       "languageCode": "pa"
     },
@@ -371,12 +371,12 @@
       "languageCode": "ro"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Russian",
       "languageCode": "ru"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Samoan",
       "languageCode": "sm"
     },
@@ -386,27 +386,27 @@
       "languageCode": "gd"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Serbian",
       "languageCode": "sr"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Sesotho",
       "languageCode": "st"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Shona",
       "languageCode": "sn"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Sindhi",
       "languageCode": "sd"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Sinhala",
       "languageCode": "si"
     },
@@ -431,7 +431,7 @@
       "languageCode": "es"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Sundanese",
       "languageCode": "su"
     },
@@ -446,17 +446,17 @@
       "languageCode": "sv"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Tajik",
       "languageCode": "tg"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Tamil",
       "languageCode": "ta"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Telugu",
       "languageCode": "te"
     },
@@ -466,12 +466,12 @@
       "languageCode": "th"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Turkish",
       "languageCode": "tr"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Ukrainian",
       "languageCode": "uk"
     },
@@ -481,12 +481,12 @@
       "languageCode": "ur"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Uzbek",
       "languageCode": "uz"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Vietnamese",
       "languageCode": "vi"
     },
@@ -496,7 +496,7 @@
       "languageCode": "cy"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Xhosa",
       "languageCode": "xh"
     },
@@ -506,12 +506,12 @@
       "languageCode": "yi"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Yoruba",
       "languageCode": "yo"
     },
     {
-      "use" : true,
+      "use" : false,
       "languageName": "Zulu",
       "languageCode": "zu"
     }

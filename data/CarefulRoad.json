@@ -1,0 +1,404 @@
+{
+  "translation": [
+    {
+      "ind": 1,
+      "sourceLanguageCode": "en",
+      "sourceText": "Be careful when you cross the road.",
+      "startLanguageText": "Be careful when crossing the road.",
+      "targetLanguageCode": "ht",
+      "translatedText": "Fè atansyon lè ou travèse wout la."
+    },
+    {
+      "ind": 2,
+      "sourceLanguageCode": "ht",
+      "sourceText": "Fè atansyon lè ou travèse wout la.",
+      "startLanguageText": "Be careful when crossing the road.",
+      "targetLanguageCode": "es",
+      "translatedText": "Tenga cuidado al cruzar la carretera."
+    },
+    {
+      "ind": 3,
+      "sourceLanguageCode": "es",
+      "sourceText": "Tenga cuidado al cruzar la carretera.",
+      "startLanguageText": "Be careful when you cross the road.",
+      "targetLanguageCode": "no",
+      "translatedText": "Vær forsiktig når du krysser veien."
+    },
+    {
+      "ind": 4,
+      "sourceLanguageCode": "no",
+      "sourceText": "Vær forsiktig når du krysser veien.",
+      "startLanguageText": "Take care to walk the path.",
+      "targetLanguageCode": "haw",
+      "translatedText": "E mālama iāʻoe ke hele i ke ala."
+    },
+    {
+      "ind": 5,
+      "sourceLanguageCode": "haw",
+      "sourceText": "E mālama iāʻoe ke hele i ke ala.",
+      "startLanguageText": "Take care to walk on the path.",
+      "targetLanguageCode": "fr",
+      "translatedText": "Prenez soin de marcher sur le chemin."
+    },
+    {
+      "ind": 6,
+      "sourceLanguageCode": "fr",
+      "sourceText": "Prenez soin de marcher sur le chemin.",
+      "startLanguageText": "Be sure to walk on the way.",
+      "targetLanguageCode": "gd",
+      "translatedText": "Bi cinnteach gun coisich thu air an t-slighe."
+    },
+    {
+      "ind": 7,
+      "sourceLanguageCode": "gd",
+      "sourceText": "Bi cinnteach gun coisich thu air an t-slighe.",
+      "startLanguageText": "Make sure you walk on the road.",
+      "targetLanguageCode": "hy",
+      "translatedText": "Համոզվեք, որ ճանապարհին քայլեք:"
+    },
+    {
+      "ind": 8,
+      "sourceLanguageCode": "hy",
+      "sourceText": "Համոզվեք, որ ճանապարհին քայլեք:",
+      "startLanguageText": "Make sure you walk the street.",
+      "targetLanguageCode": "de",
+      "translatedText": "Stellen Sie sicher, dass Sie auf der Straße gehen."
+    },
+    {
+      "ind": 9,
+      "sourceLanguageCode": "de",
+      "sourceText": "Stellen Sie sicher, dass Sie auf der Straße gehen.",
+      "startLanguageText": "Make sure you walk on the street.",
+      "targetLanguageCode": "hy",
+      "translatedText": "Համոզվեք, որ քայլում եք փողոց:"
+    },
+    {
+      "ind": 10,
+      "sourceLanguageCode": "hy",
+      "sourceText": "Համոզվեք, որ քայլում եք փողոց:",
+      "startLanguageText": "Make sure you walk down the street.",
+      "targetLanguageCode": "fr",
+      "translatedText": "Assurez-vous de marcher dans la rue."
+    },
+    {
+      "ind": 11,
+      "sourceLanguageCode": "fr",
+      "sourceText": "Assurez-vous de marcher dans la rue.",
+      "startLanguageText": "Make sure you walk down the street.",
+      "targetLanguageCode": "es",
+      "translatedText": "Asegúrate de caminar por la calle."
+    },
+    {
+      "ind": 12,
+      "sourceLanguageCode": "es",
+      "sourceText": "Asegúrate de caminar por la calle.",
+      "startLanguageText": "Make sure you walk along the way.",
+      "targetLanguageCode": "sq",
+      "translatedText": "Sigurohuni që ecni nëpër rrugë."
+    },
+    {
+      "ind": 13,
+      "sourceLanguageCode": "sq",
+      "sourceText": "Sigurohuni që ecni nëpër rrugë.",
+      "startLanguageText": "Make sure you walk along the way.",
+      "targetLanguageCode": "en",
+      "translatedText": "Make sure you walk along the way."
+    },
+    {
+      "ind": 14,
+      "sourceLanguageCode": "en",
+      "sourceText": "Make sure you walk along the way.",
+      "startLanguageText": "Make sure you follow the road along the way.",
+      "targetLanguageCode": "fy",
+      "translatedText": "Soargje derfoar dat jo lâns de wei folgje."
+    },
+    {
+      "ind": 15,
+      "sourceLanguageCode": "fy",
+      "sourceText": "Soargje derfoar dat jo lâns de wei folgje.",
+      "startLanguageText": "Make sure you are on the road.",
+      "targetLanguageCode": "ig",
+      "translatedText": "Jide n'aka na ị na-eso ụzọ n'okporo ụzọ."
+    },
+    {
+      "ind": 16,
+      "sourceLanguageCode": "ig",
+      "sourceText": "Jide n'aka na ị na-eso ụzọ n'okporo ụzọ.",
+      "startLanguageText": "Make sure you are on the road.",
+      "targetLanguageCode": "hmn",
+      "translatedText": "Nco ntsoov tias koj nyob ntawm txoj kev."
+    },
+    {
+      "ind": 17,
+      "sourceLanguageCode": "hmn",
+      "sourceText": "Nco ntsoov tias koj nyob ntawm txoj kev.",
+      "startLanguageText": "Make sure you are in the street.",
+      "targetLanguageCode": "ca",
+      "translatedText": "Assegureu-vos que us trobeu al carrer."
+    },
+    {
+      "ind": 18,
+      "sourceLanguageCode": "ca",
+      "sourceText": "Assegureu-vos que us trobeu al carrer.",
+      "startLanguageText": "Be sure to be on the street.",
+      "targetLanguageCode": "pt",
+      "translatedText": "Certifique-se de estar na rua."
+    },
+    {
+      "ind": 19,
+      "sourceLanguageCode": "pt",
+      "sourceText": "Certifique-se de estar na rua.",
+      "startLanguageText": "Make sure that on the street.",
+      "targetLanguageCode": "ha",
+      "translatedText": "Tabbatar cewa a kan titi."
+    },
+    {
+      "ind": 20,
+      "sourceLanguageCode": "ha",
+      "sourceText": "Tabbatar cewa a kan titi.",
+      "startLanguageText": "Make sure that the street.",
+      "targetLanguageCode": "fi",
+      "translatedText": "Varmista, että kadulla."
+    },
+    {
+      "ind": 21,
+      "sourceLanguageCode": "fi",
+      "sourceText": "Varmista, että kadulla.",
+      "startLanguageText": "Make sure the way.",
+      "targetLanguageCode": "it",
+      "translatedText": "Assicurati che la strada."
+    },
+    {
+      "ind": 22,
+      "sourceLanguageCode": "it",
+      "sourceText": "Assicurati che la strada.",
+      "startLanguageText": "Make sure the road is.",
+      "targetLanguageCode": "cy",
+      "translatedText": "Gwnewch yn siŵr fod y ffordd."
+    },
+    {
+      "ind": 23,
+      "sourceLanguageCode": "cy",
+      "sourceText": "Gwnewch yn siŵr fod y ffordd.",
+      "startLanguageText": "Make sure the road is.",
+      "targetLanguageCode": "gd",
+      "translatedText": "Dèan cinnteach gu bheil an rathad."
+    },
+    {
+      "ind": 24,
+      "sourceLanguageCode": "gd",
+      "sourceText": "Dèan cinnteach gu bheil an rathad.",
+      "startLanguageText": "Make sure the road is.",
+      "targetLanguageCode": "sv",
+      "translatedText": "Se till att vägen är."
+    },
+    {
+      "ind": 25,
+      "sourceLanguageCode": "sv",
+      "sourceText": "Se till att vägen är.",
+      "startLanguageText": "Make sure the road is.",
+      "targetLanguageCode": "fy",
+      "translatedText": "Soargje derfoar dat de dyk is."
+    },
+    {
+      "ind": 26,
+      "sourceLanguageCode": "fy",
+      "sourceText": "Soargje derfoar dat de dyk is.",
+      "startLanguageText": "Make sure the way is.",
+      "targetLanguageCode": "pl",
+      "translatedText": "Upewnij się, że droga jest."
+    },
+    {
+      "ind": 27,
+      "sourceLanguageCode": "pl",
+      "sourceText": "Upewnij się, że droga jest.",
+      "startLanguageText": "Make sure that's the way.",
+      "targetLanguageCode": "jw",
+      "translatedText": "Priksa manawa cara kasebut."
+    },
+    {
+      "ind": 28,
+      "sourceLanguageCode": "jw",
+      "sourceText": "Priksa manawa cara kasebut.",
+      "startLanguageText": "Make sure it is like this.",
+      "targetLanguageCode": "de",
+      "translatedText": "Stellen Sie sicher, dass es so ist."
+    },
+    {
+      "ind": 29,
+      "sourceLanguageCode": "de",
+      "sourceText": "Stellen Sie sicher, dass es so ist.",
+      "startLanguageText": "Make sure it is that.",
+      "targetLanguageCode": "ca",
+      "translatedText": "Assegureu-vos que sigui així."
+    },
+    {
+      "ind": 30,
+      "sourceLanguageCode": "ca",
+      "sourceText": "Assegureu-vos que sigui així.",
+      "startLanguageText": "Make sure it is.",
+      "targetLanguageCode": "fi",
+      "translatedText": "Varmista, että se on."
+    },
+    {
+      "ind": 31,
+      "sourceLanguageCode": "fi",
+      "sourceText": "Varmista, että se on.",
+      "startLanguageText": "Make sure it is there.",
+      "targetLanguageCode": "lv",
+      "translatedText": "Pārliecinieties, ka tā ir."
+    },
+    {
+      "ind": 32,
+      "sourceLanguageCode": "lv",
+      "sourceText": "Pārliecinieties, ka tā ir.",
+      "startLanguageText": "Make sure there it is.",
+      "targetLanguageCode": "ca",
+      "translatedText": "Assegureu-vos que hi és."
+    },
+    {
+      "ind": 33,
+      "sourceLanguageCode": "ca",
+      "sourceText": "Assegureu-vos que hi és.",
+      "startLanguageText": "Make sure it's there.",
+      "targetLanguageCode": "de",
+      "translatedText": "Stellen Sie sicher, dass es da ist."
+    },
+    {
+      "ind": 34,
+      "sourceLanguageCode": "de",
+      "sourceText": "Stellen Sie sicher, dass es da ist.",
+      "startLanguageText": "Make sure it's there.",
+      "targetLanguageCode": "lt",
+      "translatedText": "Įsitikinkite, kad tai ten."
+    },
+    {
+      "ind": 35,
+      "sourceLanguageCode": "lt",
+      "sourceText": "Įsitikinkite, kad tai ten.",
+      "startLanguageText": "Make sure you're there.",
+      "targetLanguageCode": "hu",
+      "translatedText": "Győződjön meg arról, hogy ott van."
+    },
+    {
+      "ind": 36,
+      "sourceLanguageCode": "hu",
+      "sourceText": "Győződjön meg arról, hogy ott van.",
+      "startLanguageText": "Make sure you're there.",
+      "targetLanguageCode": "et",
+      "translatedText": "Veenduge, et olete seal."
+    },
+    {
+      "ind": 37,
+      "sourceLanguageCode": "et",
+      "sourceText": "Veenduge, et olete seal.",
+      "startLanguageText": "Make sure you are there.",
+      "targetLanguageCode": "fr",
+      "translatedText": "Assurez-vous que vous êtes là."
+    },
+    {
+      "ind": 38,
+      "sourceLanguageCode": "fr",
+      "sourceText": "Assurez-vous que vous êtes là.",
+      "startLanguageText": "Make sure you're there.",
+      "targetLanguageCode": "sk",
+      "translatedText": "Uistite sa, že ste tam."
+    },
+    {
+      "ind": 39,
+      "sourceLanguageCode": "sk",
+      "sourceText": "Uistite sa, že ste tam.",
+      "startLanguageText": "Make sure you are there.",
+      "targetLanguageCode": "es",
+      "translatedText": "Asegúrate de estar ahí."
+    },
+    {
+      "ind": 40,
+      "sourceLanguageCode": "es",
+      "sourceText": "Asegúrate de estar ahí.",
+      "startLanguageText": "Make sure you are there.",
+      "targetLanguageCode": "de",
+      "translatedText": "Stellen Sie sicher, dass Sie da sind."
+    },
+    {
+      "ind": 41,
+      "sourceLanguageCode": "de",
+      "sourceText": "Stellen Sie sicher, dass Sie da sind.",
+      "startLanguageText": "Make sure you're there.",
+      "targetLanguageCode": "cs",
+      "translatedText": "Ujistěte se, že jste tam."
+    },
+    {
+      "ind": 42,
+      "sourceLanguageCode": "cs",
+      "sourceText": "Ujistěte se, že jste tam.",
+      "startLanguageText": "Make sure you're there.",
+      "targetLanguageCode": "et",
+      "translatedText": "Veenduge, et olete seal."
+    },
+    {
+      "ind": 43,
+      "sourceLanguageCode": "et",
+      "sourceText": "Veenduge, et olete seal.",
+      "startLanguageText": "Make sure you are there.",
+      "targetLanguageCode": "sv",
+      "translatedText": "Se till att du är där."
+    },
+    {
+      "ind": 44,
+      "sourceLanguageCode": "sv",
+      "sourceText": "Se till att du är där.",
+      "startLanguageText": "Make sure you are there.",
+      "targetLanguageCode": "gd",
+      "translatedText": "Dèan cinnteach gu bheil thu ann."
+    },
+    {
+      "ind": 45,
+      "sourceLanguageCode": "gd",
+      "sourceText": "Dèan cinnteach gu bheil thu ann.",
+      "startLanguageText": "Make sure you are here.",
+      "targetLanguageCode": "lb",
+      "translatedText": "Passt sécher datt Dir do sidd."
+    },
+    {
+      "ind": 46,
+      "sourceLanguageCode": "lb",
+      "sourceText": "Passt sécher datt Dir do sidd.",
+      "startLanguageText": "Make sure you are here.",
+      "targetLanguageCode": "es",
+      "translatedText": "Asegúrate de estar aquí."
+    },
+    {
+      "ind": 47,
+      "sourceLanguageCode": "es",
+      "sourceText": "Asegúrate de estar aquí.",
+      "startLanguageText": "Make sure you are here.",
+      "targetLanguageCode": "ht",
+      "translatedText": "Asire ou ke ou isit la."
+    },
+    {
+      "ind": 48,
+      "sourceLanguageCode": "ht",
+      "sourceText": "Asire ou ke ou isit la.",
+      "startLanguageText": "ĐĐĐĐĐľŃ Đ¸Ń Đľ Ń Đľ Đ'Đ ° ĐŃ Đľ ĐžĐ˛Đ'Đľ.",
+      "targetLanguageCode": "sr",
+      "translatedText": "Уверите се да сте овде."
+    },
+    {
+      "ind": 49,
+      "sourceLanguageCode": "sr",
+      "sourceText": "Уверите се да сте овде.",
+      "startLanguageText": "Ä Ä ä ä ä ä Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Ä Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å",
+      "targetLanguageCode": "nl",
+      "translatedText": "ĐĐĐĐĐľŃ Đ¸Ń Đľ Ń Đľ Đ'Đ ° ĐŃ Đľ ĐžĐ˛Đ'Đľ."
+    },
+    {
+      "ind": 50,
+      "sourceLanguageCode": "nl",
+      "sourceText": "ĐĐĐĐĐľŃ Đ¸Ń Đľ Ń Đľ Đ'Đ ° ĐŃ Đľ ĐžĐ˛Đ'Đľ.",
+      "startLanguageText": "Ã„ Ã„ Ã¤ Ã¤ Ã¤ Ã¤ Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã„ Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã… Ã…",
+      "targetLanguageCode": "en",
+      "translatedText": "Ä Ä ä ä ä ä Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Ä Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å Å"
+    }
+  ]
+}

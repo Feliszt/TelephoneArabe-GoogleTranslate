@@ -1,0 +1,84 @@
+{
+  "translation": [
+    {
+      "ind": 1,
+      "sourceLanguageCode": "fr",
+      "sourceText": "Si on y met tous du notre on aura finit ce soir.",
+      "startLanguageText": "Si la nuit avec toute notre puissance.",
+      "targetLanguageCode": "la",
+      "translatedText": "Nocte demum si omnia nostra voluntate."
+    },
+    {
+      "ind": 2,
+      "sourceLanguageCode": "la",
+      "sourceText": "Nocte demum si omnia nostra voluntate.",
+      "startLanguageText": "Si c'est toute la nuit et l'énergie.",
+      "targetLanguageCode": "ig",
+      "translatedText": "Ọ bụrụ na abalị na ike anyị niile."
+    },
+    {
+      "ind": 3,
+      "sourceLanguageCode": "ig",
+      "sourceText": "Ọ bụrụ na abalị na ike anyị niile.",
+      "startLanguageText": "C'est toute la nuit avec le pouvoir.",
+      "targetLanguageCode": "sn",
+      "translatedText": "Kana iri usiku hwose nesimba."
+    },
+    {
+      "ind": 4,
+      "sourceLanguageCode": "sn",
+      "sourceText": "Kana iri usiku hwose nesimba.",
+      "startLanguageText": "Toute la nuit avec le pouvoir.",
+      "targetLanguageCode": "sl",
+      "translatedText": "Celotna noč je z močjo."
+    },
+    {
+      "ind": 5,
+      "sourceLanguageCode": "sl",
+      "sourceText": "Celotna noč je z močjo.",
+      "startLanguageText": "Toute la nuit.",
+      "targetLanguageCode": "uz",
+      "translatedText": "Butun kecha kuch bilan."
+    },
+    {
+      "ind": 6,
+      "sourceLanguageCode": "uz",
+      "sourceText": "Butun kecha kuch bilan.",
+      "startLanguageText": "Vive la vie.",
+      "targetLanguageCode": "vi",
+      "translatedText": "Cả đêm dài."
+    },
+    {
+      "ind": 7,
+      "sourceLanguageCode": "vi",
+      "sourceText": "Cả đêm dài.",
+      "startLanguageText": "Vivre longtemps",
+      "targetLanguageCode": "eu",
+      "translatedText": "Luze bizi."
+    },
+    {
+      "ind": 8,
+      "sourceLanguageCode": "eu",
+      "sourceText": "Luze bizi.",
+      "startLanguageText": "Vivre longtemps",
+      "targetLanguageCode": "haw",
+      "translatedText": "Ola lōʻihi"
+    },
+    {
+      "ind": 9,
+      "sourceLanguageCode": "haw",
+      "sourceText": "Ola lōʻihi",
+      "startLanguageText": "² ظ ظ † † ‡ ‡ ظ ظ ظ ظ ظ",
+      "targetLanguageCode": "fa",
+      "translatedText": "زنده بمان"
+    },
+    {
+      "ind": 10,
+      "sourceLanguageCode": "fa",
+      "sourceText": "زنده بمان",
+      "startLanguageText": "Moins au moins",
+      "targetLanguageCode": "ga",
+      "translatedText": "Féachaint ar a laghad"
+    }
+  ]
+}

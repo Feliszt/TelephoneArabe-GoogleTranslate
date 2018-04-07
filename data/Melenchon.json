@@ -1,0 +1,36 @@
+{
+  "translation": [
+    {
+      "ind": 1,
+      "sourceLanguageCode": "fr",
+      "sourceText": "Franchement Mélenchon c'est plus ce que c'était.",
+      "startLanguageText": "Honnêtement, Melenchon est plus que ce qu'il était.",
+      "targetLanguageCode": "pl",
+      "translatedText": "Szczerze mówiąc Melenchon to więcej niż było."
+    },
+    {
+      "ind": 2,
+      "sourceLanguageCode": "pl",
+      "sourceText": "Szczerze mówiąc Melenchon to więcej niż było.",
+      "startLanguageText": "Plus tôt, Melenchon est plus que ce qu'il était.",
+      "targetLanguageCode": "da",
+      "translatedText": "Ærligt, Melenchon er mere end det var."
+    },
+    {
+      "ind": 3,
+      "sourceLanguageCode": "da",
+      "sourceText": "Ærligt, Melenchon er mere end det var.",
+      "startLanguageText": "Eh bien, Melenchon est plus que ce qu'il était.",
+      "targetLanguageCode": "ht",
+      "translatedText": "Byen bonè, Melenchon se pi plis pase sa li te ye."
+    },
+    {
+      "ind": 4,
+      "sourceLanguageCode": "ht",
+      "sourceText": "Byen bonè, Melenchon se pi plis pase sa li te ye.",
+      "startLanguageText": "Melenchon ‡ § ‡ ‡ à à à à | | ¿| ",
+      "targetLanguageCode": "bn",
+      "translatedText": "ওয়েল, Melenchon বেশী ছিল এটি ছিল।"
+    }
+  ]
+}
